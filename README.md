@@ -1,2 +1,0 @@
-# dockermaster
-testapp
